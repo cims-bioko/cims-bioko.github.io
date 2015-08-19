@@ -25,7 +25,7 @@
       ><text x="7" xml:space="preserve" y="34" transform="translate(160,310)" stroke="none"
       > </text
       ><text x="7" xml:space="preserve" y="51" transform="translate(160,310)" stroke="none"
-      >OpenHDS Tablet provides the main entrypoint for admins</text
+      >CIMS Tablet provides the main entrypoint for admins</text
       ><text x="7" xml:space="preserve" y="68" transform="translate(160,310)" stroke="none"
       >and data collectors (field workers). It uses data loaded by</text
       ><text x="7" xml:space="preserve" y="85" transform="translate(160,310)" stroke="none"
@@ -39,7 +39,7 @@
       ><text x="7" xml:space="preserve" y="153" transform="translate(160,310)" stroke="none"
       >Form definitions are fetched from ODK Aggregate prior to</text
       ><text x="7" xml:space="preserve" y="170" transform="translate(160,310)" stroke="none"
-      >running OpenHDS Tablet, and when a user selects a form</text
+      >running CIMS Tablet, and when a user selects a form</text
       ><text x="7" xml:space="preserve" y="187" transform="translate(160,310)" stroke="none"
       >in the Tablet application, the appropriate form definition</text
       ><text x="7" xml:space="preserve" y="204" transform="translate(160,310)" stroke="none"
@@ -91,19 +91,19 @@
       ><text x="7" xml:space="preserve" y="68" transform="translate(-580,410)" stroke="none"
       > </text
       ><text x="7" xml:space="preserve" y="85" transform="translate(-580,410)" stroke="none"
-      >Mirth is responsible for integrating Aggregate and OpenHDS by transferring information</text
+      >Mirth is responsible for integrating Aggregate and CIMS Server by transferring information</text
       ><text x="7" xml:space="preserve" y="102" transform="translate(-580,410)" stroke="none"
-      >submitted as forms to Aggregate to corresponding REST endpoints exposed by OpenHDS.</text
+      >submitted as forms to Aggregate to corresponding REST endpoints exposed by CIMS Server.</text
       ><text x="7" xml:space="preserve" y="119" transform="translate(-580,410)" stroke="none"
       >The 'Census Events' channel defines a job that polls a fixed number of ODK tables for new</text
       ><text x="7" xml:space="preserve" y="136" transform="translate(-580,410)" stroke="none"
       >records, marks them as 'handled', converts them to XML and posts them to the </text
       ><text x="7" xml:space="preserve" y="153" transform="translate(-580,410)" stroke="none"
-      >an OpenHDS endpoint corresponding to the form.</text
+      >an CIMS Server endpoint corresponding to the form.</text
       ><text x="7" xml:space="preserve" y="170" transform="translate(-580,410)" stroke="none"
       > </text
       ><text x="7" xml:space="preserve" y="187" transform="translate(-580,410)" stroke="none"
-      >OpenHDS is primarily responsible for handling XML submissions from mirth corresponding</text
+      >CIMS Server is primarily responsible for handling XML submissions from mirth corresponding</text
       ><text x="7" xml:space="preserve" y="204" transform="translate(-580,410)" stroke="none"
       >to the various forms, providing data synchronization endpoints for populating the tablet app</text
       ><text x="7" xml:space="preserve" y="221" transform="translate(-580,410)" stroke="none"
@@ -133,7 +133,7 @@
       /><text x="59" xml:space="preserve" y="17" transform="translate(180,10)" stroke="none"
       >«application»</text
       ><text x="48" xml:space="preserve" y="34" transform="translate(180,10)" stroke="none"
-      >OpenHDS Tablet</text
+      >CIMS Tablet</text
       ><line y2="40" fill="none" x1="30" x2="30" transform="translate(300,40)" y1="30"
       /><line y2="40" fill="none" x1="30" x2="130" transform="translate(300,40)" y1="40"
       /><line y2="40" fill="none" x1="130" x2="230" transform="translate(300,40)" y1="40"
@@ -242,7 +242,7 @@
       /><text x="99" xml:space="preserve" y="17" transform="translate(-260,70)" stroke="none"
       >«application»</text
       ><text x="112" xml:space="preserve" y="34" transform="translate(-260,70)" stroke="none"
-      >OpenHDS</text
+      >CIMS Server</text
       ><rect x="0" y="0" transform="translate(-260,210)" fill="white" width="289" opacity="0" height="119" stroke="none"
       /><rect fill="none" x="0" width="289" height="119" y="0" transform="translate(-260,210)"
       /><text x="99" xml:space="preserve" y="17" transform="translate(-260,210)" stroke="none"
