@@ -14,7 +14,7 @@
    width="715.16998"
    height="442.34207"
    id="svg7147"
-   sodipodi:docname="cims-system-workflow-detailed.svg"
+   sodipodi:docname="cims-detailed-flow.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -31,7 +31,7 @@
      showgrid="false"
      inkscape:zoom="2.0000001"
      inkscape:cx="510.09464"
-     inkscape:cy="81.822776"
+     inkscape:cy="321.82276"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -4774,25 +4774,25 @@
   </g>
   <path
      style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.75599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-     d="m 406.31803,121.55802 h 14.91163 z"
+     d="M 201.31936,121.55802 H 186.40773 Z"
      id="path203452"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccc" />
   <path
      style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.75599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4)"
-     d="m 365.12884,121.55802 h 14.91163 z"
+     d="M 242.50855,121.55802 H 227.59692 Z"
      id="path203452-6"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccc" />
   <path
      style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.75599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-3)"
-     d="m 229.50848,121.55802 h 14.91163 z"
+     d="M 378.12891,121.55802 H 363.21728 Z"
      id="path203452-6-7"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccc" />
   <path
      style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.75599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-5)"
-     d="m 187.67154,121.55802 h 14.91163 z"
+     d="M 419.96585,121.55802 H 405.05422 Z"
      id="path203452-6-6"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccc" />
